@@ -1,0 +1,22 @@
+﻿  main.cpp
+main.cpp(39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+main.cpp(39): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+main.cpp(127): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+main.cpp(146): warning C4305: 'initializing': truncation from 'double' to 'float'
+main.cpp(221): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+main.cpp(223): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+main.cpp(224): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+main.cpp(225): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+main.cpp(229): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+main.cpp(232): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+main.cpp(233): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+main.cpp(234): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+main.cpp(257): warning C4244: 'initializing': conversion from 'GLdouble' to 'float', possible loss of data
+main.cpp(258): warning C4244: 'initializing': conversion from 'GLdouble' to 'float', possible loss of data
+main.cpp(264): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(265): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(266): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(267): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(270): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  A2.vcxproj -> C:\Users\Andrew\Desktop\CPS511\WORK2\Debug\A2.exe
+  A2.vcxproj -> C:\Users\Andrew\Desktop\CPS511\WORK2\Debug\A2.pdb (Full PDB)
